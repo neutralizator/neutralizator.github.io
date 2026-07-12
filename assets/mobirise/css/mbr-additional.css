@@ -2677,47 +2677,47 @@ a {
     padding: 1rem;
   }
 }
-.cid-vp9KbpPkpj {
+.cid-vpa7I2DsTD {
   display: flex;
   background-image: url("../../../assets/images/neutralizator-pozadina.jpg");
 }
-.cid-vp9KbpPkpj .mbr-overlay {
+.cid-vpa7I2DsTD .mbr-overlay {
   background-color: #000000;
   opacity: 0.3;
 }
 @media (min-width: 768px) {
-  .cid-vp9KbpPkpj {
+  .cid-vpa7I2DsTD {
     align-items: center;
   }
-  .cid-vp9KbpPkpj .row {
+  .cid-vpa7I2DsTD .row {
     justify-content: center;
   }
-  .cid-vp9KbpPkpj .content-wrap {
+  .cid-vpa7I2DsTD .content-wrap {
     padding: 1rem 3rem;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
-  .cid-vp9KbpPkpj .content-wrap {
+  .cid-vpa7I2DsTD .content-wrap {
     min-width: 50%;
   }
 }
 @media (max-width: 767px) {
-  .cid-vp9KbpPkpj {
+  .cid-vpa7I2DsTD {
     -webkit-align-items: center;
     align-items: center;
   }
-  .cid-vp9KbpPkpj .mbr-row {
+  .cid-vpa7I2DsTD .mbr-row {
     -webkit-justify-content: center;
     justify-content: center;
   }
-  .cid-vp9KbpPkpj .content-wrap {
+  .cid-vpa7I2DsTD .content-wrap {
     width: 100%;
   }
 }
-.cid-vp9KbpPkpj .mbr-fallback-image.disabled {
+.cid-vpa7I2DsTD .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-vp9KbpPkpj .mbr-fallback-image {
+.cid-vpa7I2DsTD .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2726,17 +2726,97 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-vp9KbpPkpj .mbr-section-title,
-.cid-vp9KbpPkpj .mbr-section-subtitle {
+.cid-vpa7I2DsTD .mbr-section-title,
+.cid-vpa7I2DsTD .mbr-section-subtitle {
   text-align: left;
   color: #ffc091;
 }
-.cid-vp9KbpPkpj .mbr-text,
-.cid-vp9KbpPkpj .mbr-section-btn {
+.cid-vpa7I2DsTD .mbr-text,
+.cid-vpa7I2DsTD .mbr-section-btn {
   text-align: justify;
   color: #ffea64;
 }
-.cid-vp9KbpPkpj .mbr-section-title {
+.cid-vpa7I2DsTD .mbr-section-title {
+  text-align: center;
+}
+.cid-vpamkk3Jf4 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/neutralizator-pozadina.jpg");
+}
+.cid-vpamkk3Jf4 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-vpamkk3Jf4 .mbr-section-title,
+.cid-vpamkk3Jf4 .mbr-section-subtitle,
+.cid-vpamkk3Jf4 .mbr-text {
+  text-align: center;
+}
+.cid-vpamkk3Jf4 .mbr-section-title {
+  color: #f92c50;
+}
+.cid-vpawigz5ZJ {
+  display: flex;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+  background-image: url("../../../assets/images/neutralizator-pozadina.jpg");
+}
+.cid-vpawigz5ZJ .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
+}
+@media (min-width: 768px) {
+  .cid-vpawigz5ZJ {
+    align-items: flex-end;
+  }
+  .cid-vpawigz5ZJ .row {
+    justify-content: center;
+  }
+  .cid-vpawigz5ZJ .content-wrap {
+    padding: 1rem 3rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-vpawigz5ZJ .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-vpawigz5ZJ {
+    -webkit-align-items: center;
+    align-items: flex-end;
+  }
+  .cid-vpawigz5ZJ .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-vpawigz5ZJ .content-wrap {
+    width: 100%;
+  }
+}
+.cid-vpawigz5ZJ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vpawigz5ZJ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vpawigz5ZJ .mbr-section-title,
+.cid-vpawigz5ZJ .mbr-section-subtitle {
+  text-align: left;
+  color: #ffc091;
+}
+.cid-vpawigz5ZJ .mbr-text,
+.cid-vpawigz5ZJ .mbr-section-btn {
+  text-align: left;
+  color: #ffea64;
+}
+.cid-vpawigz5ZJ .mbr-section-title {
   text-align: center;
 }
 .cid-vovTBSYxMg {
@@ -3927,47 +4007,47 @@ a {
     padding: 1rem;
   }
 }
-.cid-vpa7I2DsTD {
+.cid-vp9KbpPkpj {
   display: flex;
   background-image: url("../../../assets/images/neutralizator-pozadina.jpg");
 }
-.cid-vpa7I2DsTD .mbr-overlay {
+.cid-vp9KbpPkpj .mbr-overlay {
   background-color: #000000;
   opacity: 0.3;
 }
 @media (min-width: 768px) {
-  .cid-vpa7I2DsTD {
+  .cid-vp9KbpPkpj {
     align-items: center;
   }
-  .cid-vpa7I2DsTD .row {
+  .cid-vp9KbpPkpj .row {
     justify-content: center;
   }
-  .cid-vpa7I2DsTD .content-wrap {
+  .cid-vp9KbpPkpj .content-wrap {
     padding: 1rem 3rem;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
-  .cid-vpa7I2DsTD .content-wrap {
+  .cid-vp9KbpPkpj .content-wrap {
     min-width: 50%;
   }
 }
 @media (max-width: 767px) {
-  .cid-vpa7I2DsTD {
+  .cid-vp9KbpPkpj {
     -webkit-align-items: center;
     align-items: center;
   }
-  .cid-vpa7I2DsTD .mbr-row {
+  .cid-vp9KbpPkpj .mbr-row {
     -webkit-justify-content: center;
     justify-content: center;
   }
-  .cid-vpa7I2DsTD .content-wrap {
+  .cid-vp9KbpPkpj .content-wrap {
     width: 100%;
   }
 }
-.cid-vpa7I2DsTD .mbr-fallback-image.disabled {
+.cid-vp9KbpPkpj .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-vpa7I2DsTD .mbr-fallback-image {
+.cid-vp9KbpPkpj .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -3976,96 +4056,16 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-vpa7I2DsTD .mbr-section-title,
-.cid-vpa7I2DsTD .mbr-section-subtitle {
+.cid-vp9KbpPkpj .mbr-section-title,
+.cid-vp9KbpPkpj .mbr-section-subtitle {
   text-align: left;
   color: #ffc091;
 }
-.cid-vpa7I2DsTD .mbr-text,
-.cid-vpa7I2DsTD .mbr-section-btn {
+.cid-vp9KbpPkpj .mbr-text,
+.cid-vp9KbpPkpj .mbr-section-btn {
   text-align: justify;
   color: #ffea64;
 }
-.cid-vpa7I2DsTD .mbr-section-title {
-  text-align: center;
-}
-.cid-vpamkk3Jf4 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/neutralizator-pozadina.jpg");
-}
-.cid-vpamkk3Jf4 .video-wrapper iframe {
-  width: 100%;
-}
-.cid-vpamkk3Jf4 .mbr-section-title,
-.cid-vpamkk3Jf4 .mbr-section-subtitle,
-.cid-vpamkk3Jf4 .mbr-text {
-  text-align: center;
-}
-.cid-vpamkk3Jf4 .mbr-section-title {
-  color: #f92c50;
-}
-.cid-vpawigz5ZJ {
-  display: flex;
-  padding-top: 3rem;
-  padding-bottom: 4rem;
-  background-image: url("../../../assets/images/neutralizator-pozadina.jpg");
-}
-.cid-vpawigz5ZJ .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.5;
-}
-@media (min-width: 768px) {
-  .cid-vpawigz5ZJ {
-    align-items: flex-end;
-  }
-  .cid-vpawigz5ZJ .row {
-    justify-content: center;
-  }
-  .cid-vpawigz5ZJ .content-wrap {
-    padding: 1rem 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-vpawigz5ZJ .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-vpawigz5ZJ {
-    -webkit-align-items: center;
-    align-items: flex-end;
-  }
-  .cid-vpawigz5ZJ .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-vpawigz5ZJ .content-wrap {
-    width: 100%;
-  }
-}
-.cid-vpawigz5ZJ .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vpawigz5ZJ .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-vpawigz5ZJ .mbr-section-title,
-.cid-vpawigz5ZJ .mbr-section-subtitle {
-  text-align: left;
-  color: #ffc091;
-}
-.cid-vpawigz5ZJ .mbr-text,
-.cid-vpawigz5ZJ .mbr-section-btn {
-  text-align: left;
-  color: #ffea64;
-}
-.cid-vpawigz5ZJ .mbr-section-title {
+.cid-vp9KbpPkpj .mbr-section-title {
   text-align: center;
 }
