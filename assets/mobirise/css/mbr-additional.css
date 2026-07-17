@@ -3481,6 +3481,70 @@ a {
   color: #bcef9b;
   text-align: justify;
 }
+.cid-vpCTzhZgWh {
+  display: flex;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/neutralizator-pozadina.jpg");
+}
+.cid-vpCTzhZgWh .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.3;
+}
+@media (min-width: 768px) {
+  .cid-vpCTzhZgWh {
+    align-items: flex-end;
+  }
+  .cid-vpCTzhZgWh .row {
+    justify-content: flex-start;
+  }
+  .cid-vpCTzhZgWh .content-wrap {
+    padding: 1rem 3rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-vpCTzhZgWh .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-vpCTzhZgWh {
+    -webkit-align-items: center;
+    align-items: flex-end;
+  }
+  .cid-vpCTzhZgWh .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-vpCTzhZgWh .content-wrap {
+    width: 100%;
+  }
+}
+.cid-vpCTzhZgWh .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vpCTzhZgWh .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vpCTzhZgWh .mbr-section-title,
+.cid-vpCTzhZgWh .mbr-section-subtitle {
+  text-align: left;
+  color: #ffc091;
+}
+.cid-vpCTzhZgWh .mbr-text,
+.cid-vpCTzhZgWh .mbr-section-btn {
+  text-align: left;
+  color: #ffea64;
+}
+.cid-vpCTzhZgWh .mbr-section-title {
+  text-align: center;
+}
 .cid-vovTBSYxMg {
   z-index: 1000;
   width: 100%;
